@@ -1,2 +1,3 @@
 # Hello-world
-my first hello world repository
+my hello world repository  
+I am a brasilian programing student
